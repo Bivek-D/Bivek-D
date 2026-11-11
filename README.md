@@ -1,10 +1,10 @@
 ### Hi, I'm Bivek.
 
-[LinkedIn](<ADD LINKEDIN URL>) · [Portfolio](https://dameo.site/) · [Email](mailto:<ADD EMAIL>) · Open to paid backend and AI internships from 2027
+[LinkedIn](www.linkedin.com/in/bivek-daimary-202332322) · [Portfolio](https://dameo.site/) · [Email](mailto:bivekdaimar444@gmail.com) · Open to paid backend and AI internships
 
 I'm a backend developer from Assam, India. I work in **Java and Spring Boot**, and I care about the parts that come after "it runs on my machine": migrations, integration tests, CI and a live deployment.
 
-I'm finishing my BCA (2027) and heading into an MCA, and I'm moving toward **AI application engineering**, which means putting LLMs behind APIs that are tested and measured like any other backend.
+I'm finishing my BCA (2027) and heading into an MCA, and I'm moving toward **AI engineering**, which means putting LLMs behind APIs that are tested and measured like any other backend.
 
 #### What I've built
 
