@@ -4,7 +4,7 @@
 
 I'm a backend developer from Assam, India. I work in Java and Spring Boot, and I care about the parts that come after "it runs on my machine": migrations, integration tests, CI and a live deployment.
 
-I'm moving toward AI application engineering: putting LLMs behind APIs that are tested and measured like any other backend. I can also build without the tools. I won first prize at Dev Dazzle 2026 by building a complete website in four hours with no internet and no AI.
+I'm moving toward AI engineering: putting LLMs behind APIs that are tested and measured like any other backend. 
 
 #### What I've built
 
